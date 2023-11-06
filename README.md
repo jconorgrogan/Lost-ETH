@@ -1,7 +1,7 @@
 # Lost-ETH
 Compilation of Ethereum typos, user errors, and buggy contracts; Goal of categorizing all of the ETH supply forever out of market circulation 
 
-As of March 2023, we categorized 636,000 ETH worth $1.15B+ that are lost forever: 0.5% of all circulating supply
+As of November 2023, I have categorized 886,000 ETH worth $1.6B+ that are lost forever: 0.6%+ of all circulating supply
 
 Addresses were sourced from a variety of public reports and queries. Special thanks to  @tayvano_ and @j6sp5r
 
@@ -13,6 +13,5 @@ If you haven't seen it already, Johannes did a great set of research scanning fo
 **To-Do section:
 
 Large additional "lost-ETH" to add:
--Rain Lohmus wallet (250,000 ETH)- see https://twitter.com/jconorgrogan/status/1721616838575214905 which brings total lost ETH to over 1.6B
 -Prime Trust wallet
 -North Korean lost ETH
