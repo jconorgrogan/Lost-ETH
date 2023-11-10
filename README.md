@@ -1,7 +1,7 @@
 # Lost-ETH
 Compilation of Ethereum typos, user errors, and buggy contracts; Goal of categorizing all of the ETH supply forever out of market circulation 
 
-As of November 2023, I have categorized 909,800 ETH worth $1.73B+ that are lost forever: 0.75%+ of all circulating supply. Please see the CSV file for details and addresses included
+As of November 10 2023, I have categorized 912,296.82 ETH worth $1.915B+ that are lost forever: 0.75%+ of all circulating supply. Please see the CSV file for details and addresses included in this calculation 
 
 <img width="643" alt="image" src="https://github.com/jconorgrogan/Lost-ETH/assets/130090573/cdcf153e-0932-49fa-8ff1-b9c5c16177b7">
 
