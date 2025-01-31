@@ -5,6 +5,8 @@ As of November 10 2023, I have categorized 912,296.82 ETH worth $1.915B+ that ar
 
 <img width="643" alt="image" src="https://github.com/jconorgrogan/Lost-ETH/assets/130090573/cdcf153e-0932-49fa-8ff1-b9c5c16177b7">
 
+<img width="1058" alt="image" src="https://github.com/user-attachments/assets/35024274-7eb9-475a-b383-c7d785bafc3f" />
+
 
 Addresses were sourced from a variety of public reports and queries. Special thanks to  @tayvano_ and @j6sp5r
 
