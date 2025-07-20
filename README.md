@@ -3,10 +3,6 @@ Compilation of Ethereum typos, user errors, and buggy contracts; Goal of categor
 
 **As of January 31 2025, I have categorized 912,296.82 ETH worth $3.04B+ that are lost forever: 0.75%+ of all circulating supply**. 
 
-<img width="643" alt="image" src="https://github.com/jconorgrogan/Lost-ETH/assets/130090573/cdcf153e-0932-49fa-8ff1-b9c5c16177b7">
-
-<img width="1058" alt="image" src="https://github.com/user-attachments/assets/35024274-7eb9-475a-b383-c7d785bafc3f" />
-
 
 Addresses were sourced from a variety of public reports and queries. Please see the CSV file for details and addresses included in this calculation 
 Special thanks to  @tayvano_ and @j6sp5r
