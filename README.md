@@ -1,6 +1,6 @@
 # Lost-ETH
 
-**As of January 31 2025, I have categorized 912,296.82 ETH worth $3.04B+ that are lost forever: 0.75%+ of all circulating supply**. 
+**As of January 31 2025, I have categorized 912,296.82 ETH worth $3.4B+ that are lost forever: 0.76%+ of all circulating supply**. 
 <img width="848" height="385" alt="image" src="https://github.com/user-attachments/assets/72877a84-8f12-40c3-908c-1b1fe3228f69" />
 
 
